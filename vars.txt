@@ -19,6 +19,21 @@ ventsa abiertas anual
 ventsa abiertas
 
 -Variable.get("email_address_failure
+logistics states report
+ageing
+ageing new
+consignmenr
+inventory
+none alinement report storestock
+purchasind data
+purchasing dTA mock
+stock insurance
+storestocktransitç
+ventas abiertas
+ventas abiertas anual
+webstocke rentik
+webstock restores
+webstock warehouse
 
 
 -Variable.get("email_address_test

@@ -216,12 +216,12 @@ ventamnesual
 ventasemanal	
 
 -Variable.get("to_email_address_success_rentik
-
 webstock rentik
 
 
 -Variable.get("to_email_va_address_success
-
+ventas abiertas
+ventas anual
 
 
 -Variable.get("ubicacion_subida_archivos_logistica

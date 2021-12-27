@@ -37,16 +37,40 @@ webstock warehouse
 
 
 -Variable.get("email_address_test
+send mail
+
 
 -Variable.get("enviroment
+logistic states report
+maxmin
+venta mensual
+
 
 -Variable.get("environment
+webstock warehouse
+ageing
+inventory
+inventory new
+purchasing data mock
+stock insurance
+webstock rentik
+webstock stores
+
 
 -Variable.get("INCLUDED_STOCK_ITEM
+webstock warehouse
+rentik
+
+
 
 -Variable.get("logistics_states_cc_email_address_success
+logistics states report
+
+
 
 -Variable.get("logistics_states_to_email_address_success
+
+
 
 -Variable.get("name_file_inventory
 

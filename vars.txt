@@ -136,7 +136,18 @@ purshcasing mock
 
 -Variable.get("schedule_weekly_sales
 
--Variable.get("to_email_address_success	
+-Variable.get("to_email_address_success
+consignments
+ageing
+ageing new
+invenotry
+inventory new
+maxminreport
+pli isues fixer
+storestock
+transit
+ventamnesual
+ventasemanal	
 
 -Variable.get("to_email_address_success_rentik
 

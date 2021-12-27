@@ -73,6 +73,8 @@ logistics states report
 
 
 -Variable.get("name_file_inventory
+inventory
+inventory new
 
 -Variable.get("name_file_logistics_states
 

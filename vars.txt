@@ -1,4 +1,4 @@
-- Variable.get("cc_email_address_success
+- Variable.get("cc_email_address_success = TPHSupportTeam@quistor.com
 
 consignas
 agening
@@ -11,14 +11,14 @@ transit
 ventamensual
 ventasemal
 
-- Variable.get("cc_email_va_address_success
+- Variable.get("cc_email_va_address_success = francisco.escalada@dominioncommercial.es	
 ventas aviertas
 ventsa abiertas anual
 
-- Variable.get("date_report
+- Variable.get("date_report = 2021-11-22	
 ventsa abiertas
 
--Variable.get("email_address_failure
+-Variable.get("email_address_failure = it@dominioncommercial.es,itsoportelogistica@phonehouse.es	
 logistics states report
 ageing
 ageing new
@@ -36,17 +36,17 @@ webstock restores
 webstock warehouse
 
 
--Variable.get("email_address_test
+-Variable.get("email_address_test = antonio.magan@dominioncommercial.es,pablo.echenique@dominioncommercial.es,ruben.gonzalez@externo.phonehouse.es,roberto.koziol@dominioncommercial.es	
 send mail
 
 
--Variable.get("enviroment
+-Variable.get("enviroment = PRO
 logistic states report
 maxmin
 venta mensual
 
 
--Variable.get("environment
+-Variable.get("environment = PRO
 webstock warehouse
 ageing
 inventory
@@ -57,64 +57,64 @@ webstock rentik
 webstock stores
 
 
--Variable.get("INCLUDED_STOCK_ITEM
+-Variable.get("INCLUDED_STOCK_ITEM = 117,118,125,128,121
 webstock warehouse
 rentik
 
 
 
--Variable.get("logistics_states_cc_email_address_success
+-Variable.get("logistics_states_cc_email_address_success = AUTOPEDIDO-TPH-ES@phonehouse.es,jose.diaz@phonehouse.es,maria.jimenez@phonehouse.es,lidia.redondo@phonehouse.es,PRODUCTO-TPH-ES@phonehouse.es	
 logistics states report
 
 
 
--Variable.get("logistics_states_to_email_address_success
+-Variable.get("logistics_states_to_email_address_success = producto-tph-es@phonehouse.es, itsoportelogistica@phonehouse.es	
 logistics states report
 
 
--Variable.get("name_file_inventory
+-Variable.get("name_file_inventory = Inventory
 inventory
 inventory new
 
--Variable.get("name_file_logistics_states
+-Variable.get("name_file_logistics_states = estados_logisticos_#DATE#.csv	
 logistic states report
 
 
 
--Variable.get("name_file_max_min
+-Variable.get("name_file_max_min = maximos_minimos_#DATE#.csv	
 max min report
 
 
--Variable.get("name_file_monthly_sales
+-Variable.get("name_file_monthly_sales = informe_ventas_mensual_#FECHA#.csv	
 ventas mensuales
 
 
--Variable.get("name_file_weekly_sales
+-Variable.get("name_file_weekly_sales = informe_ventas_semanal_
 ventas semanales
 
 
--Variable.get("s3_logistica_access_key_id
+-Variable.get("s3_logistica_access_key_id = AKIAQ2FM3OC5KDYNEDWC
 consignment
 ageing
 transit
 inventory
 
 
--Variable.get("s3_logistica_bucket_folder
+-Variable.get("s3_logistica_bucket_folder = Logistica
 consignment
 ageing
 inventory
 transit
 
 
--Variable.get("s3_logistica_bucket_path
+-Variable.get("s3_logistica_bucket_path = dc-data-analytics-phonehouse	
 consignment
 ageing
 inventory
 transit
 
 
--Variable.get("s3_logistica_secret_access_key
+-Variable.get("s3_logistica_secret_access_key = ********	
 consignment
 ageing
 inventory
@@ -122,19 +122,19 @@ transit
 
 
 
--Variable.get("s3_ssff_access_key_id
+-Variable.get("s3_ssff_access_key_id = AKIAQ2FM3OC5NCIDUWLK
 stock insurance
 
 
--Variable.get("s3_ssff_bucket_folder
+-Variable.get("s3_ssff_bucket_folder = Logistica
 stock insurance
 
 
--Variable.get("s3_ssff_bucket_path
+-Variable.get("s3_ssff_bucket_path = serviciosfinancieros-prod	
 stock insurance
 
 
--Variable.get("s3_ssff_secret_access_key
+-Variable.get("s3_ssff_secret_access_key = ********	
 stock insurance
 
 

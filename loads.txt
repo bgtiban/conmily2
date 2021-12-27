@@ -1,4 +1,12 @@
+-- EJEMPLO.
+s3_lg, s3_ssff, ftp_lg, ftp_web, ftp_rentik
+--
+
 ageing.py
+s3
+ftp
+
+
 ageing_new.py
 configuration.py
 consignment.py

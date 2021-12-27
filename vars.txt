@@ -113,6 +113,8 @@ inventory new
 -Variable.get("schedule_pl_fixer
 
 -Variable.get("schedule_purchasing_data
+purchasing data
+purshcasing mock
 
 -Variable.get("schedule_report_logistics_states
 

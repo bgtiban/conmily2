@@ -164,6 +164,8 @@ fixer
 
 
 -Variable.get("schedule_purchasing_data
+purchasing data
+purshcasing mock
 
 
 -Variable.get("schedule_report_logistics_states
@@ -200,7 +202,18 @@ web store
 -Variable.get("schedule_weekly_sales
 weekly sales
 
--Variable.get("to_email_address_success	
+-Variable.get("to_email_address_success
+consignments
+ageing
+ageing new
+invenotry
+inventory new
+maxminreport
+pli isues fixer
+storestock
+transit
+ventamnesual
+ventasemanal	
 
 -Variable.get("to_email_address_success_rentik
 

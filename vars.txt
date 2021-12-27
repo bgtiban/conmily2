@@ -69,7 +69,7 @@ logistics states report
 
 
 -Variable.get("logistics_states_to_email_address_success
-
+logistics states report
 
 
 -Variable.get("name_file_inventory
@@ -77,64 +77,130 @@ inventory
 inventory new
 
 -Variable.get("name_file_logistics_states
+logistic states report
+
+
 
 -Variable.get("name_file_max_min
+max min report
+
 
 -Variable.get("name_file_monthly_sales
+ventas mensuales
+
 
 -Variable.get("name_file_weekly_sales
+ventas semanales
+
 
 -Variable.get("s3_logistica_access_key_id
+consignment
+ageing
+transit
+inventory
+
 
 -Variable.get("s3_logistica_bucket_folder
+consignment
+ageing
+inventory
+transit
+
 
 -Variable.get("s3_logistica_bucket_path
+consignment
+ageing
+inventory
+transit
+
 
 -Variable.get("s3_logistica_secret_access_key
+consignment
+ageing
+inventory
+transit
+
+
 
 -Variable.get("s3_ssff_access_key_id
+stock insurance
+
 
 -Variable.get("s3_ssff_bucket_folder
+stock insurance
+
 
 -Variable.get("s3_ssff_bucket_path
+stock insurance
+
 
 -Variable.get("s3_ssff_secret_access_key
+stock insurance
+
 
 -Variable.get("schedule_ageing
+ageing
+ageing new
+
 
 -Variable.get("schedule_consignment
+consignment
+
 
 -Variable.get("schedule_insurance
+insurance
+
 
 -Variable.get("schedule_inventory
+inventory
+inventory new
 
 -Variable.get("schedule_monthly_sales
+monthly sales
+
 
 -Variable.get("schedule_pl_fixer
+fixer
+
 
 -Variable.get("schedule_purchasing_data
 purchasing data
 purshcasing mock
 
+
 -Variable.get("schedule_report_logistics_states
+logistic states report
 
 -Variable.get("schedule_report_max_min
+max min
+
 
 -Variable.get("schedule_storeStock
+store stock
+
 
 -Variable.get("schedule_transit
+transit
 
 -Variable.get("schedule_ventas_abiertas
+ventas abiertas
 
 -Variable.get("schedule_ventas_abiertas_anual	
+ventas abiertas anual
 
 -Variable.get("schedule_web_rentik
+web rentik
+
 
 -Variable.get("schedule_web_stock
+web stok
+
 
 -Variable.get("schedule_web_stores
+web store
 
 -Variable.get("schedule_weekly_sales
+weekly sales
 
 -Variable.get("to_email_address_success
 consignments
@@ -150,9 +216,13 @@ ventamnesual
 ventasemanal	
 
 -Variable.get("to_email_address_success_rentik
-hola soy tu conflicto
+
+webstock rentik
+
 
 -Variable.get("to_email_va_address_success
+
+
 
 -Variable.get("ubicacion_subida_archivos_logistica
 

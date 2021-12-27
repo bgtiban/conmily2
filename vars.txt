@@ -226,7 +226,8 @@ webstock rentik
 
 -Variable.get("ubicacion_subida_archivos_logistica
 
-
+ventas abiertas
+venta anual
 
 
 

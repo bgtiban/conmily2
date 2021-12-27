@@ -138,71 +138,71 @@ stock insurance
 stock insurance
 
 
--Variable.get("schedule_ageing
+-Variable.get("schedule_ageing = 15 0,14 * * *	
 ageing
 ageing new
 
 
--Variable.get("schedule_consignment
+-Variable.get("schedule_consignment = 30 4 * * *	
 consignment
 
 
--Variable.get("schedule_insurance
+-Variable.get("schedule_insurance =0 */1 * * *	
 insurance
 
 
--Variable.get("schedule_inventory
+-Variable.get("schedule_inventory = 30 0,14 * * *	
 inventory
 inventory new
 
--Variable.get("schedule_monthly_sales
+-Variable.get("schedule_monthly_sales = 25 7 1 * *	
 monthly sales
 
 
--Variable.get("schedule_pl_fixer
+-Variable.get("schedule_pl_fixer = 0 8,14 * * *	
 fixer
 
 
--Variable.get("schedule_purchasing_data
+-Variable.get("schedule_purchasing_data = 0 */1 * * *	
 purchasing data
 purshcasing mock
 
 
--Variable.get("schedule_report_logistics_states
+-Variable.get("schedule_report_logistics_states = 0 7 * * *	
 logistic states report
 
--Variable.get("schedule_report_max_min
+-Variable.get("schedule_report_max_min = 15 7 * * *	
 max min
 
 
--Variable.get("schedule_storeStock
+-Variable.get("schedule_storeStock =15 00,14 * * *	
 store stock
 
 
--Variable.get("schedule_transit
+-Variable.get("schedule_transit = 0 */1 * * *	
 transit
 
--Variable.get("schedule_ventas_abiertas
+-Variable.get("schedule_ventas_abiertas = 0 8-23 * * *	
 ventas abiertas
 
--Variable.get("schedule_ventas_abiertas_anual	
+-Variable.get("schedule_ventas_abiertas_anual = 30 23 * * *	
 ventas abiertas anual
 
--Variable.get("schedule_web_rentik
+-Variable.get("schedule_web_rentik = 0 10,14,18 * * *	
 web rentik
 
 
--Variable.get("schedule_web_stock
+-Variable.get("schedule_web_stock = 0 */1 * * *	
 web stok
 
 
--Variable.get("schedule_web_stores
+-Variable.get("schedule_web_stores = 30 */1 * * *	
 web store
 
--Variable.get("schedule_weekly_sales
+-Variable.get("schedule_weekly_sales = 20 7 * * 1	
 weekly sales
 
--Variable.get("to_email_address_success
+-Variable.get("to_email_address_success = logisticafranquicias-tph-es@phonehouse.es,PRODUCTO-TPH-ES@phonehouse.es,logistica-tph-es@phonehouse.es	
 consignments
 ageing
 ageing new
@@ -215,16 +215,16 @@ transit
 ventamnesual
 ventasemanal	
 
--Variable.get("to_email_address_success_rentik
+-Variable.get("to_email_address_success_rentik = backoffice@rentik.com,ruben.lorenzo@dominioncommercial.es	
 webstock rentik
 
 
--Variable.get("to_email_va_address_success
+-Variable.get("to_email_va_address_success = Es-reporting-tph-es@phonehouse.es,Eduardo.perez@phonehouse.es,carolina.torres@phonehouse.es,comprascellular-tph-es@phonehouse.es	
 ventas abiertas
 ventas anual
 
 
--Variable.get("ubicacion_subida_archivos_logistica
+-Variable.get("ubicacion_subida_archivos_logistica = { "ageing":{ "ftp":"true", "s3":"true" }, "consignment":{ "ftp":"true", "s3":"true" }, "transit":{ "ftp":"true", "s3":"true" }, "inventory":{ "ftp":"true", "s3":"true" } }	
 
 ventas abiertas
 venta anual

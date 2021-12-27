@@ -1,80 +1,84 @@
 - Variable.get("cc_email_address_success = TPHSupportTeam@quistor.com
 
-consignas
-agening
-inventory
-maxmin
-pl_issues
-purchasing
-storestock
-transit
-ventamensual
-ventasemal
+consignas -OK
+agening -OK
+inventory -OK
+maxmin -OK
+pl_issues -OK
+purchasing -OK
+storestock -OK
+transit -OK
+ventamensual -OK
+ventasemal -OK
+
+-Variable.get("logistics_states_to_email_address_success = producto-tph-es@phonehouse.es, itsoportelogistica@phonehouse.es	
+logistics states report - OK
+
+-Variable.get("to_email_va_address_success = Es-reporting-tph-es@phonehouse.es,Eduardo.perez@phonehouse.es,carolina.torres@phonehouse.es,comprascellular-tph-es@phonehouse.es	
+ventas abiertas - OK 
+ventas anual - OK
 
 - Variable.get("cc_email_va_address_success = francisco.escalada@dominioncommercial.es	
-ventas aviertas
-ventsa abiertas anual
+ventas abiertas -OK 
+ventsa abiertas anual - OK
 
 - Variable.get("date_report = 2021-11-22	
-ventsa abiertas
+ventsa abiertas -  OK
 
 -Variable.get("email_address_failure = it@dominioncommercial.es,itsoportelogistica@phonehouse.es	
-logistics states report
-ageing
-ageing new
-consignmenr
-inventory
-none alinement report storestock
-purchasind data
-purchasing dTA mock
-stock insurance
-storestocktransitç
-ventas abiertas
-ventas abiertas anual
-webstocke rentik
-webstock restores
-webstock warehouse
+logistics states report - OK
+ageing - OK
+ageing new - OK
+consignmenr - OK
+inventory - OK
+none alinement report - OK
+storestock - OK
+purchasind data - OK
+purchasing dTA mock- OK
+stock insurance -- OK
+storestock - OK
+transit - OK
+ventas abiertas - OK
+ventas abiertas anual - OK
+webstocke rentik - OK
+webstock estores - OK
+webstock warehouse - OK
 
 
 -Variable.get("email_address_test = antonio.magan@dominioncommercial.es,pablo.echenique@dominioncommercial.es,ruben.gonzalez@externo.phonehouse.es,roberto.koziol@dominioncommercial.es	
-send mail
+send mail -- OK
 
 
 -Variable.get("enviroment = PRO
-logistic states report
-maxmin
-venta mensual
+logistic states report -- OK
+maxmin -- OK
+venta mensual -- OK
 
 
 -Variable.get("environment = PRO
-webstock warehouse
-ageing
-inventory
-inventory new
-purchasing data mock
-stock insurance
-webstock rentik
-webstock stores
+webstock warehouse -- OK
+ageing -- OK
+inventory -- OK
+inventory new -- OK
+purchasing data mock -- OK
+stock insurance -- OK 
+webstock rentik -- OK
+webstock stores -- OK
 
 
 -Variable.get("INCLUDED_STOCK_ITEM = 117,118,125,128,121
-webstock warehouse
-rentik
+webstock warehouse-- OK
+rentik-- OK
 
 
 
 -Variable.get("logistics_states_cc_email_address_success = AUTOPEDIDO-TPH-ES@phonehouse.es,jose.diaz@phonehouse.es,maria.jimenez@phonehouse.es,lidia.redondo@phonehouse.es,PRODUCTO-TPH-ES@phonehouse.es	
-logistics states report
-
-
-
--Variable.get("logistics_states_to_email_address_success = producto-tph-es@phonehouse.es, itsoportelogistica@phonehouse.es	
-logistics states report
+logistics states report-- OK
 
 
 -Variable.get("name_file_inventory = Inventory
-inventory
-inventory new
+inventory-- OK
+inventory new-- OK
 
 -Variable.get("name_file_logistics_states = estados_logisticos_#DATE#.csv	
 logistic states report
@@ -82,152 +86,147 @@ logistic states report
 
 
 -Variable.get("name_file_max_min = maximos_minimos_#DATE#.csv	
-max min report
+max min report-- OK
 
 
 -Variable.get("name_file_monthly_sales = informe_ventas_mensual_#FECHA#.csv	
-ventas mensuales
+ventas mensuales-- OK
 
 
 -Variable.get("name_file_weekly_sales = informe_ventas_semanal_
-ventas semanales
+ventas semanales-- OK
 
 
 -Variable.get("s3_logistica_access_key_id = AKIAQ2FM3OC5KDYNEDWC
-consignment
-ageing
-transit
-inventory
+consignment-- OK
+ageing-- OK
+transit-- OK
+inventory-- OK
 
 
 -Variable.get("s3_logistica_bucket_folder = Logistica
-consignment
-ageing
-inventory
-transit
+consignment-- OK
+ageing-- OK
+inventory-- OK
+transit-- OK
 
 
 -Variable.get("s3_logistica_bucket_path = dc-data-analytics-phonehouse	
-consignment
-ageing
-inventory
-transit
+consignment-- OK
+ageing-- OK
+inventory-- OK
+transit-- OK
 
 
 -Variable.get("s3_logistica_secret_access_key = ********	
-consignment
-ageing
-inventory
-transit
+consignment-- OK
+ageing-- OK
+inventory-- OK
+transit-- OK
 
 
 
 -Variable.get("s3_ssff_access_key_id = AKIAQ2FM3OC5NCIDUWLK
-stock insurance
+stock insurance-- OK
 
 
 -Variable.get("s3_ssff_bucket_folder = Logistica
-stock insurance
+stock insurance-- OK
 
 
 -Variable.get("s3_ssff_bucket_path = serviciosfinancieros-prod	
-stock insurance
+stock insurance-- OK
 
 
 -Variable.get("s3_ssff_secret_access_key = ********	
-stock insurance
+stock insurance-- OK
 
 
 -Variable.get("schedule_ageing = 15 0,14 * * *	
-ageing
-ageing new
+ageing-- OK
+ageing new-- OK
 
 
 -Variable.get("schedule_consignment = 30 4 * * *	
-consignment
+consignment-- OK
 
 
 -Variable.get("schedule_insurance =0 */1 * * *	
-insurance
+insurance-- OK
 
 
 -Variable.get("schedule_inventory = 30 0,14 * * *	
-inventory
-inventory new
+inventory-- OK
+inventory new-- OK
 
 -Variable.get("schedule_monthly_sales = 25 7 1 * *	
-monthly sales
+monthly sales-- OK
 
 
 -Variable.get("schedule_pl_fixer = 0 8,14 * * *	
-fixer
+fixer-- OK
 
 
 -Variable.get("schedule_purchasing_data = 0 */1 * * *	
-purchasing data
-purshcasing mock
+purchasing data-- OK
+purshcasing mock-- OK
 
 
 -Variable.get("schedule_report_logistics_states = 0 7 * * *	
-logistic states report
+logistic states report-- OK
 
 -Variable.get("schedule_report_max_min = 15 7 * * *	
-max min
+max min-- OK
 
 
 -Variable.get("schedule_storeStock =15 00,14 * * *	
-store stock
+store stock-- OK
 
 
 -Variable.get("schedule_transit = 0 */1 * * *	
-transit
+transit-- OK
 
 -Variable.get("schedule_ventas_abiertas = 0 8-23 * * *	
-ventas abiertas
+ventas abiertas-- OK
 
 -Variable.get("schedule_ventas_abiertas_anual = 30 23 * * *	
-ventas abiertas anual
+ventas abiertas anual-- OK
 
 -Variable.get("schedule_web_rentik = 0 10,14,18 * * *	
-web rentik
+web rentik-- OK
 
 
 -Variable.get("schedule_web_stock = 0 */1 * * *	
-web stok
+web stok warehouse-- OK
 
 
 -Variable.get("schedule_web_stores = 30 */1 * * *	
-web store
+web stock stores-- OK
 
 -Variable.get("schedule_weekly_sales = 20 7 * * 1	
-weekly sales
+weekly sales-- OK
 
 -Variable.get("to_email_address_success = logisticafranquicias-tph-es@phonehouse.es,PRODUCTO-TPH-ES@phonehouse.es,logistica-tph-es@phonehouse.es	
-consignments
-ageing
-ageing new
-invenotry
-inventory new
-maxminreport
-pli isues fixer
-storestock
-transit
-ventamnesual
-ventasemanal	
+consignments-- OK
+ageing-- OK
+ageing new-- OK
+invenotry-- OK
+inventory new-- OK
+maxminreport-- OK
+pli isues fixer-- OK
+storestock-- OK
+transit-- OK
+ventamnesual-- OK
+ventasemanal	-- OK
 
 -Variable.get("to_email_address_success_rentik = backoffice@rentik.com,ruben.lorenzo@dominioncommercial.es	
-webstock rentik
-
-
--Variable.get("to_email_va_address_success = Es-reporting-tph-es@phonehouse.es,Eduardo.perez@phonehouse.es,carolina.torres@phonehouse.es,comprascellular-tph-es@phonehouse.es	
-ventas abiertas
-ventas anual
+webstock rentik-- OK
 
 
 -Variable.get("ubicacion_subida_archivos_logistica = { "ageing":{ "ftp":"true", "s3":"true" }, "consignment":{ "ftp":"true", "s3":"true" }, "transit":{ "ftp":"true", "s3":"true" }, "inventory":{ "ftp":"true", "s3":"true" } }	
 
-ventas abiertas
-venta anual
+ventas abiertas-- OK
+venta anual-- OK
 
 
 
